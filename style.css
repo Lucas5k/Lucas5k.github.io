@@ -1,24 +1,15 @@
-h1 {
-    width: 3000px;
-  }
-  h1 {
-    background-color:orange
-  }
-  #list-style {
-    background-color: green;
-  }
-  h1 {
-    font-family: serif
-  }
-  p {
-    font-weight: 600;
-    font-size: 3em;
-  }
-  b {
-    font-size: 16px;
-    font-style:italic;
-    line-height: 40px;
-    text-align:center;
-    text-decoration: underline;
-  }
-  
+#Fonte-diferente {
+  font-family: fantasy;
+}
+
+body {
+  background-color: cornflowerblue
+}
+
+strong {
+  text-decoration: underline;
+}
+
+.list-style {
+  font-size: 20px
+}
