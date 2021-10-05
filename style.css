@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: cornflowerblue
+  background-color: royalblue
 }
 
 strong {
@@ -12,4 +12,13 @@ strong {
 
 .list-style {
   font-size: 20px
+}
+
+.button {
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 25px;
+  background-color: #0fa36b;
+  line-height: 1;
+
 }
