@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: royalblue
+  background-color: white
 }
 
 strong {
@@ -17,8 +17,36 @@ strong {
 .button {
   padding: 15px 30px;
   text-decoration: none;
-  border-radius: 25px;
-  background-color: #0fa36b;
+  border-radius: 20px;
+  background-color: rgb(4, 255, 4);
   line-height: 1;
+}
 
+li:hover {
+  background-color: #0fa36b;
+}
+
+.imagem {
+  height: 300px;
+  position: relative;
+}
+
+
+
+#minha-foto {
+  float: left;
+  height: 250px ;
+  padding: 25px;
+  background-color: #0fa36b;
+  width: 220px;
+}
+
+.nome {
+  text-align: center;
+}
+
+.imagem ul {
+  position: absolute;
+  top: 10%;
+  right: 30%;
 }
